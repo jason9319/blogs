@@ -4,6 +4,6 @@
 
 ---
 
-## 이강호(14)
+### 이강호(14)
 - [https://cannalee90.github.io/](https://cannalee90.github.io/)  
 - 학교 공부 정리용
