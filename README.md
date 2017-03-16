@@ -8,7 +8,7 @@
 - [https://cannalee90.github.io/](https://cannalee90.github.io/)  
 - 학교 공부 정리용
 
-### 경원님(07) 
+### 전경원(07) 
 - [http://hellojkw.com/blog](http://hellojkw.com/blog)
 - MS-EXCEL 엑셀의 신
 
