@@ -39,3 +39,7 @@
 ### 한정(11)
 - [https://hanjungv.github.io/](https://hanjungv.github.io/)
 - swift, html, css, ror, js 등등 잡다함
+
+### 이현종(04)
+- [http://hyunjong-lee.github.io/](http://hyunjong-lee.github.io/)
+- ML, C#, 일상 등등 잡다함
