@@ -28,7 +28,7 @@
 - [http://zeddios.tistory.com/](http://zeddios.tistory.com/) 
 - Swift, 자료구조, Piano 등 블로그 중에서 가장 다양한 카테고리
 
-### 김진서(13)
+### 김진서(12)
 - [http://jason9319.tistory.com/](http://jason9319.tistory.com/)
 - Algorithm, PS
 
